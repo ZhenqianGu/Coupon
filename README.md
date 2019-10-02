@@ -1,4 +1,4 @@
-# Coupon
+# Coupon Inventory System
 CS401 spring project is to build a coupon inventory system (CIS) using JAVA. This project exercises data structure topics discussed under this course. Project must use abstract such as interface(s).
 
 The system has following data field:
