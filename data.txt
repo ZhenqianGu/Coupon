@@ -1,0 +1,9 @@
+a Apple 500 20 365 true
+b Sony 300 15 180 true
+c Samsung 400 10 200 false
+c Sharp 200 60 280 true
+d Google 600 30 30 true
+e Blackberry 800 50 10 true
+f LG 550 75 300 true
+g LEGO 50 10 30 true
+h Microsoft 1000 15 5 true
