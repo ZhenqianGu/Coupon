@@ -1,5 +1,5 @@
 # Coupon Inventory System
-CS401 spring project is to build a coupon inventory system (CIS) using JAVA. This project exercises data structure topics discussed under this course. Project must use abstract such as interface(s).
+CS401 spring project is to build a coupon inventory system (CIS) using JAVA. This project exercises data structure topics discussed under this course. Project uses abstract such as interface(s).
 
 The system has following data field:
 1. Name of Coupon Provider (max field: 20 bytes, e.g. Groupon, Living Social, DealDaddie, etc.)
@@ -9,7 +9,7 @@ The system has following data field:
 5. Expiration Period (e.g. range between 0 and 365 days)
 6. Status of a coupon: Unused or Redeemed
 
-Let the project create the list by both a file input and by a manual user input. (FREE DESIGN)
+The project creates the list by both a file input and by a manual user input. (FREE DESIGN)
 
 User’s initial input creates an unsorted list(UL).
 When a user selects a menu, then construct a SL (Sorted List, depends on with a key field).
